@@ -16,4 +16,3 @@ CD in the directory and executing the script :
 cd /opt/scripts/
 bash sevrer.sh
 ```
-B
